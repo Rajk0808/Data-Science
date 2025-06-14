@@ -26,5 +26,27 @@ This repo hosts 🔍 diverse data science projects—covering exploratory data a
 ---
 
 ## Structure
+├── project_1_name/
+│ ├── data/ # raw / processed data
+│ ├── notebooks/ # EDA & experimentation
+│ ├── src/ # scripts & modules
+│ ├── results/ # outputs: plots, metrics, models
+│ ├── requirements.txt # project-specific deps
+│ └── README.md # project‑specific instructions
+├── .gitignore
+├── requirements.txt # shared dependencies
+└── README.md # this file
+
+
+Feel free to adjust structure to fit your workflow 🛠️.
+
+---
+
+## Installation
+
+1. **Clone the repo:**
+   ```bash
+   git clone https://github.com/Rajk0808/Data-Science.git
+   cd Data-Science
 
 
