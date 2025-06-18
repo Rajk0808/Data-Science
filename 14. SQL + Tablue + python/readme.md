@@ -85,9 +85,9 @@ This project is licensed under the [MIT License](LICENSE).
 
 ## 🙋‍♂️ Author
 
-**Raj Kumar**  
-📧 rajk0808@gmail.com  
-🔗 [LinkedIn](https://www.linkedin.com/in/rajkumar-k08)
+**Raghvendra Kushwah**  
+📧 raghvendrakushwah701@gmail.com  
+🔗 [LinkedIn](https://www.linkedin.com/in/raghvendrakushwah)
 
 ---
 
